@@ -9,7 +9,7 @@ import (
 	"math"
 
 	"tinygo.org/x/drivers"
-	"tinygo.org/x/drivers/internal/legacy"
+	legacy "github.com/tombruel31/Accelerometer/I2C"
 )
 
 // Device wraps an I2C connection to a LSM303AGR device.
