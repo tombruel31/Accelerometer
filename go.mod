@@ -1,4 +1,4 @@
-module accelerometer
+module github.com/tombruel31/Accelerometer
 
 go 1.18
 
