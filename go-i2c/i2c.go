@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	I2C_SLAVE = 0x19
+	I2C_SLAVE = 0x20
 )
 
 // I2C represents a connection to an i2c device.
